@@ -5,8 +5,23 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/KarelMarvin.unity
+    guid: a0cad3c4d7daba44d851ce4a1a68e404
+  - enabled: 1
+    path: Assets/Scenes/0_OfflineScene.unity
+    guid: 308c4bb487f93c94bb6fce3cdf1c620a
+  - enabled: 1
+    path: Assets/Scenes/1_LobbyScene.unity
+    guid: 4da9d2877aad13a41814c003599c8b20
+  - enabled: 1
+    path: Assets/Scenes/2_GameplayScene.unity
+    guid: 496cb2c0e3717374bae10caa2b9c000d
+  - enabled: 0
+    path: Assets/Scenes/2_GameplayScene(fake).unity
+    guid: a942c9519b79d894e9ec098e42acd40e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
